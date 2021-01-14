@@ -1,7 +1,4 @@
-# 깃허브 연습
+# 온라인 저지 문제풀이.
 
-비주얼 스튜디오 코드로 깃허브 연습합니다.
-
-**README.md 파일** 을 작성 중입니다.
-
-다시한번 커밋합니다.
+## 이용하는 Online Judge
+* BOJ(Backjoon Online Judge) <www.acmicpc.net>
