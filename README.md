@@ -5,5 +5,5 @@
 * Programmers <https://programmers.co.kr>
 * CodeUp <https://codeup.kr>
 
-# 이것이 코딩테스트다
+## 이것이 코딩테스트다
 * 실전 문제
