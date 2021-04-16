@@ -4,6 +4,7 @@
 * BOJ(Backjoon Online Judge) <https://www.acmicpc.net>
 * Programmers <https://programmers.co.kr>
 * CodeUp <https://codeup.kr>
+  * CodeUp 기초 100문제 - 2021.04.07 완료
 
 ## 이것이 코딩테스트다
 * 실전 문제
