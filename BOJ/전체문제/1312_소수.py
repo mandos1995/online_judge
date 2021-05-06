@@ -1,0 +1,5 @@
+a, b, n = map(int,input().split())
+result = (a / b)
+result = str(result)
+result = result.split('.')
+print(result[1][n-1])
